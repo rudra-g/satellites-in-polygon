@@ -9,13 +9,13 @@ Unveil the Mysteries of Satellite Locations within Your Sacred Polygon! 🛰️
 Let's embark on this cosmic journey together. First, summon the project:
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/rudra-g/satellites-in-polygon.git
 ```
 
 Step into the cosmic portal:
 
 ```bash
-cd my-project
+cd satellites-in-polygon
 ```
 
 Now, unleash the magic:
