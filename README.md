@@ -1,6 +1,6 @@
 # 🌌 Satellites in Polygon
 
-Unveil the Mysteries of Satellite Locations within Your Sacred Polygon! 🛰️
+Unveil the Mysteries of Satellite Locations within Your Chosen Polygon! 🛰️
 
 (for a no nonsense description look into **"project_overview.txt"** file)
 
